@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+## Technologies used
+
+- React
+- JavaScript
+- HTML
+- CSS
+
+![Ana Sayfa](/src/assets/Ekran%20Alıntısı.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
